@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "dev_user",
+        "MONGO_PASSWORD": "dev_user",
+        "MONGO_DB": "Grocery-UI"
+    }
+}
